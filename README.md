@@ -66,19 +66,7 @@ Die Gewichtungen wären:
 
 ---
 
-## 2. Growth-Strategie - Gewichtung nach Wachstumsraten
 
-Die Growth-Strategie gewichtet Anlagen nach ihrer erwarteten Wachstumsrate. Diese Strategie richtet sich an Anleger, die hohe Wachstumschancen in aufstrebenden Branchen suchen. Der Fokus liegt auf Unternehmen mit überdurchschnittlichen Wachstumsraten, oft unabhängig davon, ob sie derzeit hohe oder niedrige Gewinne erwirtschaften.
-
-### Berechnung:
-
-1. Bestimme die **Wachstumsrate** jeder Anlage (z. B. die durchschnittliche jährliche Wachstumsrate der Erträge).
-2. Addiere die Wachstumsraten aller Anlagen zur Gesamtsumme.
-3. Setze die Gewichtung jeder Anlage proportional zu ihrer Wachstumsrate im Verhältnis zur Gesamtsumme der Wachstumsraten:
-
-
-
----
 
 ## 2. Growth-Strategie - Gewichtung nach Wachstumsraten
 
@@ -93,7 +81,6 @@ Die Gewichtungen für die Growth-Strategie werden wie folgt berechnet:
 3. Setze die Gewichtung jeder Anlage proportional zu ihrer Wachstumsrate im Verhältnis zur Gesamtsumme der Wachstumsraten:
 
 
-### Beispiel
 
 
 ### Beispiel:
@@ -125,10 +112,6 @@ Die Berechnung der Gewichtungen für die Value-Strategie erfolgt wie folgt:
 2. Berechne den **Kehrwert der Bewertung** jeder Anlage (d. h. 1 /Bewertung, um Anlagen mit niedrigeren Bewertungen höher zu gewichten.
 3. Addiere die Kehrwerte aller Bewertungen zur Gesamtsumme.
 4. Setze die Gewichtung jeder Anlage proportional zu ihrem Kehrwert der Bewertung im Verhältnis zur Gesamtsumme der Kehrwerte:
-
-
-
-### Beispiel
 
 
 ### Beispiel:
