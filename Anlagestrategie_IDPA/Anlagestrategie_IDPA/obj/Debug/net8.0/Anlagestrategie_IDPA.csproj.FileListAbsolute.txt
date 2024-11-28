@@ -1,0 +1,14 @@
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.AssemblyInfo.cs
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Debug\net8.0\Anlagestrategie_IDPA.exe
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Debug\net8.0\Anlagestrategie_IDPA.deps.json
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Debug\net8.0\Anlagestrategie_IDPA.runtimeconfig.json
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Debug\net8.0\Anlagestrategie_IDPA.dll
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Debug\net8.0\Anlagestrategie_IDPA.pdb
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.dll
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\refint\Anlagestrategie_IDPA.dll
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.pdb
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\Anlagestrategie_IDPA.genruntimeconfig.cache
+C:\Users\filip\source\repos\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Debug\net8.0\ref\Anlagestrategie_IDPA.dll
