@@ -54,7 +54,7 @@ namespace Anlagestrategie_IDPA
             }
 
             // Growth-Strategie
-            var growthWeights = portfolio.CalculateGrowthStrategyWeights();
+            var growthWeights = portfolio.CalculateGrowthStrategyWeights(startCapital, targetCapital, investmentPeriod);
             double growthRisk = portfolio.CalculatePortfolioVariance(growthWeights);
             Console.WriteLine("\nGrowth-Strategie:");
             Console.WriteLine($"Risiko (Varianz): {growthRisk:F4}");
@@ -64,7 +64,7 @@ namespace Anlagestrategie_IDPA
             }
 
             // Value-Strategie
-            var valueWeights = portfolio.CalculateValueStrategyWeights();
+            var valueWeights = portfolio.CalculateValueStrategyWeights(startCapital, targetCapital, investmentPeriod);
             double valueRisk = portfolio.CalculatePortfolioVariance(valueWeights);
             Console.WriteLine("\nValue-Strategie:");
             Console.WriteLine($"Risiko (Varianz): {valueRisk:F4}");

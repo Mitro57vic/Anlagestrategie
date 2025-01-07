@@ -14,8 +14,6 @@ namespace Anlagestrategien_Test
             var investment = new Investment("TestInvestment", new List<double> { 0.1, 0.2, 0.15, 0.1 }, 0.05, 10);
 
             // Erwartete Varianz (manuelle Berechnung):
-            // Mittelwert = (0.1 + 0.2 + 0.15 + 0.1) / 4 = 0.1375
-            // Varianz = [(0.1 - 0.1375)^2 + (0.2 - 0.1375)^2 + ...] / 4 = 0.00171875
             double expectedVariance = 0.00171875;
 
             // Act
@@ -33,11 +31,14 @@ namespace Anlagestrategien_Test
             var investmentB = new Investment("B", new List<double> { 0.05, 0.1, 0.1 }, 0.04, 20);
             var portfolio = new Portfolio(new List<Investment> { investmentA, investmentB });
 
+            // Erwartete Korrelation (manuelle Berechnung):
+            double expectedCorrelation = 0.866;
+
             // Act
             var correlation = portfolio.CalculateCorrelation("A", "B");
 
             // Assert
-            Assert.AreEqual(0.866, correlation, 0.001);
+            Assert.AreEqual(expectedCorrelation, correlation, 0.001);
         }
 
         [TestMethod]
@@ -48,23 +49,17 @@ namespace Anlagestrategien_Test
             var investmentB = new Investment("B", new List<double> { 0.05, 0.08 }, 0.08, 10);
             var portfolio = new Portfolio(new List<Investment> { investmentA, investmentB });
 
-            // Erwartete Gewichtungen (manuelle Berechnung):
-            // Durchschnittliche Renditen:
-            // A: (0.1 + 0.15) / 2 = 0.125
-            // B: (0.05 + 0.08) / 2 = 0.065
-            // Total: 0.125 + 0.065 = 0.19
-            // Gewichtungen: A = 0.125 / 0.19, B = 0.065 / 0.19
-            double expectedWeightA = 0.125 / 0.19;
-            double expectedWeightB = 0.065 / 0.19;
-
             // Act
             var weights = portfolio.CalculateStandardStrategyWeights(1000, 2000, 5);
+
+            // Erwartete Gewichtungen:
+            double expectedWeightA = 0.65;
+            double expectedWeightB = 0.35;
 
             // Assert
             Assert.AreEqual(expectedWeightA, weights[0], 0.01);
             Assert.AreEqual(expectedWeightB, weights[1], 0.01);
         }
-
 
         [TestMethod]
         public void CalculateGrowthStrategyWeights_ShouldReturnCorrectWeights()
@@ -75,11 +70,15 @@ namespace Anlagestrategien_Test
             var portfolio = new Portfolio(new List<Investment> { investmentA, investmentB });
 
             // Act
-            var weights = portfolio.CalculateGrowthStrategyWeights();
+            var weights = portfolio.CalculateGrowthStrategyWeights(1000, 2000, 5);
+
+            // Erwartete Gewichtungen:
+            double expectedWeightA = 0.6;
+            double expectedWeightB = 0.4;
 
             // Assert
-            Assert.AreEqual(0.6, weights[0], 0.01);
-            Assert.AreEqual(0.4, weights[1], 0.01);
+            Assert.AreEqual(expectedWeightA, weights[0], 0.01);
+            Assert.AreEqual(expectedWeightB, weights[1], 0.01);
         }
 
         [TestMethod]
@@ -91,11 +90,15 @@ namespace Anlagestrategien_Test
             var portfolio = new Portfolio(new List<Investment> { investmentA, investmentB });
 
             // Act
-            var weights = portfolio.CalculateValueStrategyWeights();
+            var weights = portfolio.CalculateValueStrategyWeights(1000, 2000, 5);
+
+            // Erwartete Gewichtungen:
+            double expectedWeightA = 0.67;
+            double expectedWeightB = 0.33;
 
             // Assert
-            Assert.AreEqual(0.67, weights[0], 0.01);
-            Assert.AreEqual(0.33, weights[1], 0.01);
+            Assert.AreEqual(expectedWeightA, weights[0], 0.01);
+            Assert.AreEqual(expectedWeightB, weights[1], 0.01);
         }
 
         [TestMethod]
@@ -108,9 +111,7 @@ namespace Anlagestrategien_Test
             var weights = new List<double> { 0.6, 0.4 };
 
             // Erwartete Berechnung (manuell):
-            // Var(A) = 0.0025, Var(B) = 0.001944
-            // Cov(A, B) (manuelle Berechnung der Kovarianz)
-            double expectedCovariance = 0.0003; // Beispielwert, tatsächliche Berechnung hängt von Returns ab
+            double expectedCovariance = 0.0003;
             double expectedVariance = (weights[0] * weights[0] * investmentA.CalculateVariance()) +
                                       (weights[1] * weights[1] * investmentB.CalculateVariance()) +
                                       (2 * weights[0] * weights[1] * expectedCovariance);
@@ -122,5 +123,4 @@ namespace Anlagestrategien_Test
             Assert.AreEqual(expectedVariance, variance, 0.0001);
         }
     }
-
 }
