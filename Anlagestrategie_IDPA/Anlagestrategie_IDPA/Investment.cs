@@ -19,6 +19,10 @@ namespace Anlagestrategie_IDPA
             Valuation = valuation;
         }
 
+        // Durchschnittliche Rendite
+        public double AverageReturn => HistoricalReturns.Average();
+
+        // Berechnung der Varianz
         public double CalculateVariance()
         {
             double average = HistoricalReturns.Average();

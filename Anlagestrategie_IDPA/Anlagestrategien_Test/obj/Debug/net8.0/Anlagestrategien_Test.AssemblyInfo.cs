@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anlagestrategien_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a17fffd9183c150f26415bcde391bd937e6bb4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69a362c7655c310670fda72e218093b4b549263f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anlagestrategien_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anlagestrategien_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
