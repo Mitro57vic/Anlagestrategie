@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategie_idpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|solutionrelative:anlagestrategie_idpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategie_idpa\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|solutionrelative:anlagestrategie_idpa\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategie_idpa\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|solutionrelative:anlagestrategie_idpa\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{97A42379-A5E5-4995-BD07-5054794DA75A}|Anlagestrategien_Test\\Anlagestrategien_Test.csproj|solutionrelative:anlagestrategien_test\\strategyevaluatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategie_idpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|solutionrelative:anlagestrategie_idpa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97A42379-A5E5-4995-BD07-5054794DA75A}|Anlagestrategien_Test\\Anlagestrategien_Test.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategien_test\\investmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A42379-A5E5-4995-BD07-5054794DA75A}|Anlagestrategien_Test\\Anlagestrategien_Test.csproj|solutionrelative:anlagestrategien_test\\investmenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategie_idpa\\investmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|solutionrelative:anlagestrategie_idpa\\investmentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|c:\\users\\xnurs\\onedrive\\desktop\\ims\\kanti\\idpa\\hauptprojekt\\anlagestrategie\\anlagestrategie_idpa\\anlagestrategie_idpa\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C603E3C9-6960-48CC-A89F-3653433E2F4A}|Anlagestrategie_IDPA\\Anlagestrategie_IDPA.csproj|solutionrelative:anlagestrategie_idpa\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StrategyEvaluatorTest.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategien_Test\\StrategyEvaluatorTest.cs",
               "RelativeDocumentMoniker": "Anlagestrategien_Test\\StrategyEvaluatorTest.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Anlagestrategien_Test\\StrategyEvaluatorTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:43:58.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:43:58.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StrategyEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\StrategyEvaluator.cs",
               "RelativeDocumentMoniker": "Anlagestrategie_IDPA\\StrategyEvaluator.cs",
@@ -79,12 +78,11 @@
               "RelativeToolTip": "Anlagestrategie_IDPA\\StrategyEvaluator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:22:43.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:22:43.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PortfolioTest.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategien_Test\\PortfolioTest.cs",
               "RelativeDocumentMoniker": "Anlagestrategien_Test\\PortfolioTest.cs",
@@ -92,38 +90,35 @@
               "RelativeToolTip": "Anlagestrategien_Test\\PortfolioTest.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:27:54.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:27:54.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Investment.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\Investment.cs",
               "RelativeDocumentMoniker": "Anlagestrategie_IDPA\\Investment.cs",
               "ToolTip": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\Investment.cs",
               "RelativeToolTip": "Anlagestrategie_IDPA\\Investment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:25:22.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:25:22.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Portfolio.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\Portfolio.cs",
               "RelativeDocumentMoniker": "Anlagestrategie_IDPA\\Portfolio.cs",
               "ToolTip": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\Portfolio.cs",
               "RelativeToolTip": "Anlagestrategie_IDPA\\Portfolio.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAswEwAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:22:42.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:22:42.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "InvestmentStrategy.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\InvestmentStrategy.cs",
               "RelativeDocumentMoniker": "Anlagestrategie_IDPA\\InvestmentStrategy.cs",
@@ -131,34 +126,32 @@
               "RelativeToolTip": "Anlagestrategie_IDPA\\InvestmentStrategy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:22:42.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T17:22:42.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\Program.cs",
               "RelativeDocumentMoniker": "Anlagestrategie_IDPA\\Program.cs",
               "ToolTip": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategie_IDPA\\Program.cs",
               "RelativeToolTip": "Anlagestrategie_IDPA\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAgwEAAAAAIAAAA",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAUwI4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T17:22:42.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "InvestmentTest.cs",
               "DocumentMoniker": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategien_Test\\InvestmentTest.cs",
               "RelativeDocumentMoniker": "Anlagestrategien_Test\\InvestmentTest.cs",
               "ToolTip": "C:\\Users\\xnurs\\OneDrive\\Desktop\\IMS\\Kanti\\IDPA\\Hauptprojekt\\Anlagestrategie\\Anlagestrategie_IDPA\\Anlagestrategien_Test\\InvestmentTest.cs",
               "RelativeToolTip": "Anlagestrategien_Test\\InvestmentTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:04:52.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T10:04:52.377Z"
             }
           ]
         },

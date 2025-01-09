@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anlagestrategie_IDPA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073b7fabdc070f01586a819e09bb92328b6482e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6f6d0e9d57cc81461b0cbd01f5ca87bc05d9d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anlagestrategie_IDPA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anlagestrategie_IDPA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

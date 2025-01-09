@@ -139,6 +139,8 @@ namespace Anlagestrategie_IDPA
                 Console.WriteLine($"Risiko (Varianz): {safestStrategy.Risk:F4}");
                 Console.WriteLine($"Durchschnittliche Rendite: {safestStrategy.Return:P2}");
                 Console.WriteLine("Diese Strategie ist realistisch und kann Ihr Zielvermögen erreichen.");
+                Console.WriteLine("Drücken Sie eine beliebige Taste, um das Programm zu beenden.");
+                Console.ReadKey();
                 break;
             }
             else
@@ -169,6 +171,7 @@ namespace Anlagestrategie_IDPA
                 else if (choice == "3")
                 {
                     Console.WriteLine("Programm beendet.");
+
                     break;
                 }
                 else

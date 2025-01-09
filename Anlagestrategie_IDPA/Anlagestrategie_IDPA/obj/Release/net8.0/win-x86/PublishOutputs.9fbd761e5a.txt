@@ -1,0 +1,2 @@
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\win-x86\Anlagestrategie_IDPA.pdb
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\win-x86\Anlagestrategie_IDPA.exe

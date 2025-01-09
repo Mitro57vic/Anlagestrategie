@@ -1,0 +1,5 @@
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\Anlagestrategie_IDPA.exe
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\Anlagestrategie_IDPA.dll
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\Anlagestrategie_IDPA.deps.json
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\Anlagestrategie_IDPA.runtimeconfig.json
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\publish\Anlagestrategie_IDPA.pdb

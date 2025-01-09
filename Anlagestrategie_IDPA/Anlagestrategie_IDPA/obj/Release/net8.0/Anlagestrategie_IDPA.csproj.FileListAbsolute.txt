@@ -1,0 +1,15 @@
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\Anlagestrategie_IDPA.exe
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\Anlagestrategie_IDPA.deps.json
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\Anlagestrategie_IDPA.runtimeconfig.json
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\Anlagestrategie_IDPA.dll
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\bin\Release\net8.0\Anlagestrategie_IDPA.pdb
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.AssemblyInfoInputs.cache
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.AssemblyInfo.cs
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.csproj.CoreCompileInputs.cache
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.sourcelink.json
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.dll
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\refint\Anlagestrategie_IDPA.dll
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.pdb
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\Anlagestrategie_IDPA.genruntimeconfig.cache
+C:\Users\xnurs\OneDrive\Desktop\IMS\Kanti\IDPA\Hauptprojekt\Anlagestrategie\Anlagestrategie_IDPA\Anlagestrategie_IDPA\obj\Release\net8.0\ref\Anlagestrategie_IDPA.dll
