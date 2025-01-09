@@ -61,7 +61,7 @@ namespace Anlagestrategie_IDPA
             }
         }
 
-        // Methode für sicheres Einlesen von Double
+        // Methode für sicheres Einlesen von Double wurde mit Hilfe von ChatGPT erstellt
         double GetValidDouble(string prompt)
         {
             Console.ForegroundColor = ConsoleColor.Cyan;

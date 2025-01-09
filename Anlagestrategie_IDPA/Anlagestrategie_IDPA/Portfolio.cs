@@ -13,7 +13,7 @@ namespace Anlagestrategie_IDPA
             Investments = investments;
         }
 
-        // Berechnung der Korrelation
+        // Berechnung der Korrelation auch mit der Hilfe von ChatGPT erstellt
         public double CalculateCorrelation(string investmentA, string investmentB)
         {
             var returnsA = Investments.First(i => i.Name == investmentA).HistoricalReturns;
@@ -53,7 +53,7 @@ namespace Anlagestrategie_IDPA
             return valuations.Select(val => val / totalValuation).ToList();
         }
 
-        // Portfolio-Varianz
+        // Portfolio-Varianz mit Hilfe von ChatGPT erstellt
         public double CalculatePortfolioVariance(List<double> weights)
         {
             double variance = 0;
