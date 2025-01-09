@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Anlagestrategie_IDPA
 {
-    class Program
+    public class Program 
     {
         static void Main(string[] args)
     {
